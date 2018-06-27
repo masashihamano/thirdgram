@@ -14,8 +14,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'config'
+gem 'carrierwave'
 
-
+gem 'bcrypt'
 
 gem 'bootsnap', '>= 1.1.0', require: false
 
